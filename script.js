@@ -1,4 +1,9 @@
 HTMLHeadElement.console.log(PI);
+HTMLHeadingElement.log.pi.int.loop
 Headers.log.console.pi.loop
 HTMLMediaElement.log.int.pi.loop
 loop.int.HTMLMediaElement
+HTMLHeadElement.log.int.loop
+HTMLOListElement.log.HTMLOListElement
+Headers.log.int,loop
+Headers.log.pi.int.loop
